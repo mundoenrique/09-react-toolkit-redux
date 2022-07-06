@@ -12,5 +12,5 @@ quote_type = single
 [*.md]
 trim_trailing_whitespace = false
 
-[{Dockerfile,.editorconfig,.dockerignore,*.env,*.env.*,*.css,*.scss}]
+[{*.json,Dockerfile,.editorconfig,.dockerignore,*.env,*.env.*,*.css,*.scss}]
 insert_final_newline = false
